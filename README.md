@@ -39,7 +39,7 @@ OR
 
 ## Notes
 
-Importing without the `as` typescript keyword works.  So I wonder if it has something to do with the `ts-loader` it defaults to using.
+Importing without the `as` typescript keyword works.
 
 declare:
 ```ts
