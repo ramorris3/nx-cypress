@@ -1,1 +1,1 @@
-export * from './constants';
+export * as NavConstants from './nav.const';
